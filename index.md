@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Soundcloud] (https://soundcloud.com)
+[Soundcloud] (https://soundcloud.com/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
